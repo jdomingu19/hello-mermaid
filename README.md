@@ -84,4 +84,27 @@ gitGraph
   commit
 ```
 
+### 6. Entity Relationship Diagram - Experimental
+
+```mermaid
+erDiagram
+  CUSTOMER ||--o{ ORDER : places
+  ORDER ||--|{ LINE-ITEM : contains
+  CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+```
+
+### 7. User Journey Diagram
+
+```mermaid
+journey
+  title My working day
+  section Go to work
+    Make tea : 3 : Me
+    Go upstairs : 4 : Me
+    Do work :  5 : Me, Cat
+  section Go home
+    Go downstairs : 5 : Me
+    Sit down : 5 : Me
+```
+
 > Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)

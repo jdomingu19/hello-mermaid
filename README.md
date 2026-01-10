@@ -315,4 +315,97 @@ flowchart LR
   Start --> Stop
 ```
 
+### 6. A node with round edges
+
+```mermaid
+flowchart LR
+  id1(This is the text in the box)
+```
+
+### 7. A stadium-shaped node
+
+```mermaid
+flowchart LR
+  id1([This is the text in the box])
+```
+
+### 8. A node in a subroutine shape
+
+```mermaid
+flowchart LR
+  id1[[This is the text in the box]]
+```
+
+### 9. A node in a cylindrical shape
+
+```mermaid
+flowchart LR
+  id1[(Database)]
+```
+
+### 10. A node in the form of a circle
+
+```mermaid
+flowchart LR
+  id1((This is the text in the circle))
+```
+
+### 11. A node in an asymmetric shape
+
+```mermaid
+flowchart LR
+  id1>This is the text in the box]
+```
+
+### 12. A node (rhombus)
+
+```mermaid
+flowchart LR
+  id1{This is the text in the box}
+```
+
+### 13. A hexagon node
+
+```mermaid
+flowchart LR
+  id1{{This is the text in the box}}
+```
+
+### 14. Parallelogram
+
+```mermaid
+flowchart TD
+  id1[/This is the text in the box/]
+```
+
+### 15. Parallelogram alt
+
+```mermaid
+flowchart TD
+  id1[\This is the text in the box\]
+```
+
+### 16. Trapezoid
+
+```mermaid
+flowchart TD
+  A[/Christmas\]
+```
+
+### 17. Trapezoid alt
+
+```mermaid
+flowchart TD
+  B[\Go shopping/]
+```
+
+### 18. Double circle
+
+```mermaid
+flowchart TD
+  id1(((This is the text in the circle)))
+```
+
+
+
 > Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)

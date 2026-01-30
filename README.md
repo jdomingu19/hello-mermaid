@@ -5,6 +5,8 @@
 
 Learning Mermaid from scratch, this repo explores embedding diagrams in Markdown. It’s a sandbox to practice syntax and chart types.
 
+![header_hello_mermaid](https://github.com/user-attachments/assets/3c01de9e-509b-4531-9264-217e4641e76d)
+
 ## Diagram Types
 
 ### 1. Flowchart

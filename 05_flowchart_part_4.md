@@ -1,4 +1,3 @@
-
 ## Flowchart Part 4
 
 ### 37. Start (Small Circle)
@@ -85,4 +84,4 @@ flowchart TD
   A@{ shape: lin-cyl, label: "Disk storage" }
 ```
 
-> Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)
+> Made with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19)

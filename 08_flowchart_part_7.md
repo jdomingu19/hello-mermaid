@@ -1,4 +1,3 @@
-
 ## Flowchart Part 7
 
 ### 73. Thick link
@@ -122,4 +121,4 @@ flowchart TD
   B -- No ----> E[End]
 ```
 
-> Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)
+> Made with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19)

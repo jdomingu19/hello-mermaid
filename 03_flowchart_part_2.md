@@ -1,4 +1,3 @@
-
 ## Flowchart Part 2
 
 ### 13. A hexagon node
@@ -89,4 +88,4 @@ flowchart TD
   A@{ shape: cyl, label: "Database" }
 ```
 
-> Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)
+> Made with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19)

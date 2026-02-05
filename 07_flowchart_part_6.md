@@ -1,4 +1,3 @@
-
 ## Flowchart Part 6
 
 ### 61. Stored Data (Bow Tie Rectangle)
@@ -15,7 +14,7 @@ flowchart TD
   A@{ shape: cross-circ, label: "Summary" }
 ```
 
-### 63. Tagged Document 
+### 63. Tagged Document
 
 ```mermaid
 flowchart TD
@@ -101,4 +100,4 @@ flowchart LR
   A-. text .-> B
 ```
 
-> Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)
+> Made with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19)

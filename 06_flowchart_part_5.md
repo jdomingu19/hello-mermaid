@@ -1,4 +1,3 @@
-
 ## Flowchart Part 5
 
 ### 49. Display (Curved Trapezoid)
@@ -57,7 +56,7 @@ flowchart TD
   A@{ shape: flip-tri, label: "Manual file" }
 ```
 
-### 57. Manual Input (Sloped Rectangle) 
+### 57. Manual Input (Sloped Rectangle)
 
 ```mermaid
 flowchart TD
@@ -85,4 +84,4 @@ flowchart TD
   A@{ shape: flag, label: "Paper tape" }
 ```
 
-> Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)
+> Made with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19)

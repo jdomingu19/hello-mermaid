@@ -1,4 +1,3 @@
-
 ## Flowchart Part 1
 
 ### 1. A node (default)
@@ -119,5 +118,5 @@ flowchart LR
 flowchart LR
   id1{This is the text in the box}
 ```
-> Made with '\u{2665}' (♥) by Jesús Domínguez [@bluefeatherdev](https://github.com/bluefeatherdev)
 
+> Made with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19)

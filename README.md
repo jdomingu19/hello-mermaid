@@ -7,16 +7,18 @@ Learning Mermaid from scratch, this repo explores embedding diagrams in Markdown
 
 ![header_hello_mermaid](https://github.com/user-attachments/assets/621e80b6-b79b-42ea-8bec-aecb1207f267)
 
-## Repository Content
+## 🗂️ Repository Content
 
 ...
 
-## Repository Goals
+## 🎯 Repository Goals
 
 ...
 
-## License
+## ⚖️ License
 
-This repository is licensed under the terms of the [Apache License 2.0](LICENSE)
+This repository is licensed under the terms of the [Apache License 2.0](LICENSE). The license grants permission to use, modify, and distribute the code with proper attribution, while ensuring that improvements and extensions remain open and accessible to the community.
 
-> Made with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19)
+##
+
+> Built with '\u{2665}' (♥) by Jesús Domínguez [@jdomingu19](https://github.com/jdomingu19/)
